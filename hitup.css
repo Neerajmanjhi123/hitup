@@ -1,0 +1,275 @@
+@media screen and ( min-width:280px) and (max-width: 600px) {
+    .social-pages{
+      display: none;
+    }
+    .trapezoid{
+        display: none;
+    }
+    .top-left{
+        display: none;
+    }
+    .card{
+      width: 350px;
+      margin: auto;
+    }
+    #image img{
+    max-width: 300px;
+    }
+   
+    #neeraj{
+      margin-top: 40%;
+    }
+    .satisfaction-img img{
+      width: 250px;
+    }
+    .image-web1 img{
+      width: 250px;
+    }
+
+    .image-web img{
+      margin-top: -43%;
+      position: absolute;
+    }
+    .card-agncey{
+      width: 350px;
+    }
+  }
+  
+
+
+  @media screen and (min-width:600px) and (max-width: 1020px) {
+    .trapezoid{
+      display: none;
+  }
+  .card{
+    width: 350px;
+    margin: auto;
+  }
+  .satisfaction-image img{
+    width: 400px auto;
+  }
+  #neeraj{
+    margin-top: 38%;
+   
+}
+.satisfaction-img img{
+  width: 350px;
+}
+.card-ful{
+  width: 250px auto;
+}
+.image-web img{
+  width: 395px;
+}
+.image-web1 img{
+  width: 550px;
+}
+.col-md-6  .image-web1 img{
+  width: 350px;
+}
+.image-web{
+  margin-top: -46%;
+  position: absolute;
+}
+
+
+
+  }
+
+
+  @media (min-width: 992px){
+   .satisfaction-image img{
+      width: 400px auto;
+     
+    }
+    .sub-column{
+      margin-top: 1%;
+     
+
+    }
+    .col-lg-6 img
+    {
+      width: 100% !important;
+      margin-right: 100px;
+    }
+    .col-lg-6 .satisfaction-img
+    {
+      margin-left: 5% !important;
+    }
+    .card-ful{
+      width: 250px auto;
+    }
+    .image-web{
+      margin-top: -46% auto;
+      position: absolute;
+    }
+  
+
+  }
+
+ 
+ 
+
+
+
+
+  .card{
+    width: 250px;
+  }
+.Business:hover{
+    background-color: blue;
+    color: white;
+  }
+  .Business{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+  }
+  .Advertising{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+  }
+  .Advertising:hover{
+    background-color: blue;
+    color: white;
+    
+  }
+  .boranding:hover{
+    background-color: blue;
+    color: white;
+  }
+  .boranding{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+  }
+  .Gorwth{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+  }
+  .Gorwth:hover{
+    background-color: blue;
+    color: white;
+  }
+  .satisfaction-img{
+
+    position: absolute;
+    z-index: 9;
+    margin-top: -69px;
+    margin-left: 20%;
+    width: 250px auto;
+  }
+  .satisfaction-image {
+    width: 250px;
+  }
+  .Leran-more:hover{
+    background-color: blue;
+    color: white;
+  }
+  .Leran-more{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    margin-left: 30px;
+  }
+  .Our-Feature{
+     margin-top: 40%;
+    
+  }
+  .card-ful{
+    width: 350px auto;
+  }
+  
+ 
+  .image-web1 img{
+width: 550px auto;
+  }
+  .image-web{
+    margin-top: -46%;
+    position: absolute;
+  }
+
+  .image-web1{
+    margin-top: 13%;
+    
+  }
+  .Frequntly{
+    margin-top: 13%;
+    color: white;
+    
+  }
+  .image-web1 img{
+    width: 300px auto;
+  }
+  .card-agncey{
+    width: 350px;
+  }
+  .desert{
+  padding: 10%;
+    color: white;
+    bottom: 13%;
+    text-align: center;
+  
+  
+    
+    
+    z-index: 9;
+
+  }
+  .need h1{
+    
+    color: white;
+    text-align: center;
+    
+    padding-top: 30%;
+    padding-bottom: 30%;
+    
+  }
+  .nitish .container-fluid{
+    padding-top: 30%;
+    margin-top: -10%;
+  
+  
+  
+  }
+  .details
+{
+   position: absolute;
+   top: 140px;
+   padding-top: 10%;
+   padding-bottom: 10%;
+}
+.details-1{
+   padding-top: 30%;
+}
+.navbar-brand{
+  float: right;
+}
+  

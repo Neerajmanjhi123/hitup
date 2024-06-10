@@ -1,0 +1,100 @@
+@media screen and ( min-width:280px) and (max-width: 600px) {
+    .social-pages{
+      display: none;
+    }
+    .trapezoid{
+        display: none;
+    }
+    .top-left{
+        display: none;
+    }
+    .card{
+      width: 350px;
+      margin: auto;
+    }
+    #image img{
+    max-width: 300px;
+    }
+   
+    #neeraj{
+      margin-top: 40%;
+    }
+    .satisfaction-img img{
+      width: 250px;
+    }
+    .image-web1 img{
+      width: 250px;
+    }
+
+    .image-web img{
+      margin-top: -43%;
+      position: absolute;
+    }
+    .card-agncey{
+      width: 350px;
+    }
+  }
+  
+
+
+  @media screen and (min-width:600px) and (max-width: 1020px) {
+    .trapezoid{
+      display: none;
+  }
+  .card{
+    width: 350px;
+    margin: auto;
+  }
+  .satisfaction-image img{
+    width: 400px auto;
+  }
+  #neeraj{
+    margin-top: 38%;
+   
+}
+.satisfaction-img img{
+  width: 350px;
+}
+.card-ful{
+  width: 250px auto;
+}
+.image-web img{
+  width: 395px;
+}
+.image-web1 img{
+  width: 550px;
+}
+.col-md-6  .image-web1 img{
+  width: 350px;
+}
+.image-web{
+  margin-top: -46%;
+  position: absolute;
+}
+.card-pp img {
+  width: 350px;
+}
+.Achieve{
+ display: inline-block;
+}
+
+
+  }
+  @media (min-width: 992px){
+    .ready-img img{
+        width: 500px;
+    }
+    .card-pp img{
+      width: 350px;
+    }
+}
+.details
+{
+   position: absolute;
+   top: 89px;
+   padding-top: 10%;
+   padding-bottom: 10%;
+}
+.details-1{
+   padding-top: 30%;
+}
